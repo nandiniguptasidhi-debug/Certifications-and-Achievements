@@ -11,7 +11,7 @@ in Data Analytics, Business Analysis, and Microsoft tools.
 |---|-------------|-----------|------|--------|
 | 01 | Business Analysis Fundamentals | Microsoft | Apr 2026 | [Verify ✅](https://coursera.org/verify/NBUYHFOOKL1P) |
 | 02 | Preparing Data for Analysis with Excel | Microsoft | Apr 2026 | [Verify ✅](https://coursera.org/verify/FYIDG4PCIBGX) |
-| 03 | Data Analytics Job Simulation | Quantium/Forage | Apr 2026 | [Verify ✅](https://www.theforage.com/verify/nwPY3igk6mBwtHRNo) |
+| 03 | Data Analytics Job Simulation | Quantium/Forage | Apr 2026 | [Verify ✅](https://www.theforage.com/verify/nwPY3igk6mBwtHRNo)|
 
 ---
 
